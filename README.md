@@ -1,7 +1,5 @@
 ## Floppa Zoo Zurich
-Responsive website for an example zoo
-
-Visit the [website](https://floppa-zoo-zurich.pages.dev)
+A fully responsive website for an example zoo. You can visit the website at the following [link](https://floppa-zoo-zurich.pages.dev).
 
 ## 🛠️ Tech Stack
 <div>
@@ -12,8 +10,8 @@ Visit the [website](https://floppa-zoo-zurich.pages.dev)
 ### Homepage
 ![homepage](img/homepage.jpg)
 
-### Animals
+### Animals Page
 ![animals](img/animals.jpg)
 
-### Pricing
+### Pricing Page
 ![pricing](img/pricing.jpg)
